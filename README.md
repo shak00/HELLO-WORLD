@@ -1,2 +1,3 @@
 # HELLO-WORLD
 HELLO WORLD REPOSITORY
+This is my first GITHUB project
